@@ -1,0 +1,7 @@
+name: nginx
+title: InSpec Profile
+maintainer: Saurabh
+copyright: Saurabh
+copyright_email: saurabhthareja90@gmail.com
+summary: An InSpec Compliance Profile to check if nginx is installed
+version: 0.1.0

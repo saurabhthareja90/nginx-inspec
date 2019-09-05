@@ -1,3 +1,3 @@
-describe package('nginx') do
-  it { should be_installed }
+describe packages(/nginx/) do
+  its('statuses') { should cmp 'installed' }
 end
